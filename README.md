@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**Jatin123lodhi/Jatin123lodhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there 👋, I am Jatin Lodhi
 
 - 🌍 I am from India.
 - 🧑‍💻 Frontend Developer with 3+ years of experience
